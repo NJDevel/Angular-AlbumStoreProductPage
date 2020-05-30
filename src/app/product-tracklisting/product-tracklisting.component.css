@@ -12,3 +12,7 @@ li {
 button {
     line-height: 1;
 }
+
+ul {
+    list-style-type: none;
+}
